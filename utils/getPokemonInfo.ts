@@ -13,4 +13,4 @@ export const getPokemonInfo = async( nameOrId: string ) => {
         sprites: data.sprites
     }
 
-}
+} 
